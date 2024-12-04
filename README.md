@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project that's described by its name. It is a simple todo app that has the following features: 
+A simple Flutter project that's described by its name. It is a simple todo app that has the following features: 
 - [x] add a todo
 - [x] delete a todo
 - [x] view list of todos
@@ -9,16 +9,12 @@ A new Flutter project that's described by its name. It is a simple todo app that
 
 ## Some screenshots of the app : 
 
+
+| Screenshot         | Description    |
+|--------------------|----------------|
+| <img src="https://github.com/izblackcat/todo/blob/main/mockups/icon.jpg?raw=true" width="400"> | Icon |
+| <img src="https://github.com/izblackcat/todo/blob/main/mockups/splash.jpg?raw=true" width="400"> | Splash screen |
+| <img src="https://github.com/izblackcat/todo/blob/main/mockups/home.jpg?raw=true" width="400"> | Home Page |
+| <img src="https://github.com/izblackcat/todo/blob/main/mockups/new-todo.jpg?raw=true" width="400"> | New todo |
 Icon of the app: 
 
-![Icon](https://github.com/izblackcat/todo/blob/main/mockups/icon.jpg?raw=true)
-
-Splash screen:
-![Splash screen](https://github.com/izblackcat/todo/blob/main/mockups/splash.jpg?raw=true)
-
-
-Home page:
-![Home page](https://github.com/izblackcat/todo/blob/main/mockups/home.jpg?raw=true)
-
-New todo:
-![New todo](https://github.com/izblackcat/todo/blob/main/mockups/new-todo.jpg?raw=true)
