@@ -44,7 +44,7 @@ class TodoTile extends StatelessWidget {
                         todoTitle,
                         softWrap: true,
                         style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 22,
                           color: mainColor,
                           decoration: todoStatus
                               ? TextDecoration.lineThrough

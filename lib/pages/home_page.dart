@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: fourthColor,
       appBar: AppBar(
         backgroundColor: secondColor,
-        title: Text("Todos"),
+        title: Text("Todos", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),),
         elevation: 0,
       ),
       body: ListView.builder(
