@@ -1,16 +1,24 @@
 # todo
 
-A new Flutter project.
+A new Flutter project that's described by its name. It is a simple todo app that has the following features: 
+- [x] add a todo
+- [x] delete a todo
+- [x] view list of todos
+- [x] memory: store todos
+- [ ] reminders: not yet implemented
 
-## Getting Started
+## Some screenshots of the app : 
 
-This project is a starting point for a Flutter application.
+Icon of the app: 
 
-A few resources to get you started if this is your first Flutter project:
+![Icon](https://github.com/izblackcat/todo/blob/main/mockups/icon.jpg?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Splash screen:
+![Splash screen](https://github.com/izblackcat/todo/blob/main/mockups/splash.jpg?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Home page:
+![Home page](https://github.com/izblackcat/todo/blob/main/mockups/home.jpg?raw=true)
+
+New todo:
+![New todo](https://github.com/izblackcat/todo/blob/main/mockups/new-todo.jpg?raw=true)
